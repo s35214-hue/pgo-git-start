@@ -1,7 +1,8 @@
 This repository contains code which displays "Hello World!".
 The commands used to make a repository, in order, are:
 
-<make a folder with some content and a README file>
+ - make a folder with some content and a README file
+
 Then: 
     mkdir pgo-git-start 
     cd <folder>
